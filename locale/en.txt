@@ -10,6 +10,21 @@ tour.name = 360 Cluster Grand Hills
 ## Media
 
 ### Title
+map_6B18752F_4205_9C85_41AD_D3861489AA67.label = FLOOR PLAN
 map_F02A9F11_FEEF_5FB6_41D1_45B9295612EE.label = CLUSTER PLAN
 panorama_0E72CE36_01DF_881A_416F_7C885985FC1E.label = GrandHills Tipe L9 Front View
+panorama_4C0BDB6A_41FD_948F_41CB_4788AB9FB81C.label = Lantai 1- Bathroom
+panorama_4C502739_41FD_7C8D_41AB_12644B4DFFFE.label = Lantai 1- Bedroom 1
+panorama_4C50356E_41FF_7C87_41C4_AAEC16A02BF2.label = Lantai 2 - Tangga
+panorama_4C50513A_41FC_948F_41B6_35B9C93947A9.label = Lantai 2- Master Bathroom
+panorama_4C505C7E_41FC_AC87_41C8_4A6D8A805DED.label = Lantai 2- Bedroom 3
+panorama_4C507AEA_41FC_958F_41CC_CC35660DAEB3.label = Lantai 2- Master Bedroom
+panorama_4C513778_41FC_BC8B_41CC_387933828939.label = Lantai 1- Living Room 1
+panorama_4C513CDE_41FC_AD87_4176_6C48C6DB8535.label = Lantai 1- LDK
+panorama_4C515368_41FC_948A_41B6_47093921D9E9.label = Lantai 1- Living Room 2
+panorama_4C516D6F_41FC_EC85_41C5_FC172152025D.label = Lantai 1- Taman
+panorama_4C518235_41FC_9485_41C0_FEE0CF1E42B8.label = Lantai 2- Bedroom 2
+panorama_4C5186BF_41FC_BD85_419D_D6AD7D8D8122.label = Lantai 2- Foyer
+panorama_4C51E886_41FC_F586_41B2_ADE2068E1A53.label = Lantai 2- Bathroom
+panorama_4C56F220_41FC_94BB_41C9_1D1794321171.label = Lantai 1- Kitchen
 panorama_F5A40BA8_FEDF_4695_41D7_BCE3FB780225.label = GrandHills Tipe L9 Hook View
